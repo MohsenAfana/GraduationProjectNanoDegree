@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Shiney Store</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="Sign_up">Sign up</string>
+    <string name="display_name">Display Name</string>
+    <string name="shopping_like_never_nbefore">Shopping Like Never  Before</string>
+    <string name="logging_in">Logging In</string>
+    <string name="wait_for_a_second">Please wait a second</string>
+    <string name="make_sure_u_filled_all_spaces">Make sure you filled the spaces</string>
+    <string name="sth_went_wrong">Something went Wrong, can\'t log in</string>
+    <string name="ure_ready_togo">You\'re ready to go!</string>
+    <string name="maintoolbar">Main Toolbar</string>
+    <string name="productsToolbar">Products Toolbar</string>
+    <string name="AppImage">Start  Image</string>
+    <string name="productImage">productImage</string>
+    <string name="_40">40</string>
+    <string name="_60">60</string>
+    <string name="bag">Bag</string>
+    <string name="error_loading_data">Error Loading Data check your connection,please.</string>
+    <string name="registration_success">Registration success</string>
+    <string name="error_happened">Some Error happend</string>
+    <string name="please_fill_all_spaces">Please Make sure you filled all spaces</string>
+    <string name="something_went_wrong">something went Wrong</string>
+</resources>
